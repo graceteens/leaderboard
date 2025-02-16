@@ -1,68 +1,68 @@
 {
   "houses": [
     {
-      "name": "Agape",
-      "points": 50890,
-      "memberPoints": 50890,
-      "bonusPoints": 0,
+      "name": "Eirene",
+      "points": 20000,
+      "memberPoints": 10000,
+      "bonusPoints": 10000,
       "progressPercentage": 100,
+      "logoUrl": "/static/logos/eirene.svg"
+    },
+    {
+      "name": "Agape",
+      "points": 2,
+      "memberPoints": 2,
+      "bonusPoints": 0,
+      "progressPercentage": 0,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "Chara",
-      "points": 10780,
-      "memberPoints": 10780,
+      "points": 2,
+      "memberPoints": 2,
       "bonusPoints": 0,
-      "progressPercentage": 21,
+      "progressPercentage": 0,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
-      "name": "Eirene",
-      "points": 10000,
-      "memberPoints": 0,
-      "bonusPoints": 10000,
-      "progressPercentage": 19,
-      "logoUrl": "/static/logos/eirene.svg"
-    },
-    {
       "name": "Arete",
-      "points": 850,
-      "memberPoints": 850,
+      "points": 1,
+      "memberPoints": 1,
       "bonusPoints": 0,
-      "progressPercentage": 1,
+      "progressPercentage": 0,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
     {
+      "name": "James L.",
+      "points": 10000,
+      "house": "Eirene",
+      "houseLogoUrl": "/static/logos/eirene.svg"
+    },
+    {
       "name": "Michael T.",
-      "points": 50000,
+      "points": 1,
       "house": "Agape",
       "houseLogoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "Sarah M.",
-      "points": 10000,
+      "points": 1,
       "house": "Chara",
       "houseLogoUrl": "/static/logos/chara.svg"
     },
     {
       "name": "Daniel K.",
-      "points": 890,
+      "points": 1,
       "house": "Agape",
       "houseLogoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "James L.",
-      "points": 850,
+      "points": 1,
       "house": "Arete",
       "houseLogoUrl": "/static/logos/arete.svg"
-    },
-    {
-      "name": "Emily R.",
-      "points": 780,
-      "house": "Chara",
-      "houseLogoUrl": "/static/logos/chara.svg"
     }
   ]
 }
