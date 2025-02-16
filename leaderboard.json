@@ -1,11 +1,19 @@
 {
   "houses": [
     {
+      "name": "Eirene",
+      "points": 10000,
+      "memberPoints": 0,
+      "bonusPoints": 10000,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/eirene.svg"
+    },
+    {
       "name": "Chara",
       "points": 1700,
       "memberPoints": 1700,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 17,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
@@ -13,7 +21,7 @@
       "points": 1640,
       "memberPoints": 1640,
       "bonusPoints": 0,
-      "progressPercentage": 96,
+      "progressPercentage": 16,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
@@ -21,16 +29,8 @@
       "points": 850,
       "memberPoints": 850,
       "bonusPoints": 0,
-      "progressPercentage": 50,
+      "progressPercentage": 8,
       "logoUrl": "/static/logos/arete.svg"
-    },
-    {
-      "name": "Eirene",
-      "points": 0,
-      "memberPoints": 0,
-      "bonusPoints": 0,
-      "progressPercentage": 0,
-      "logoUrl": "/static/logos/eirene.svg"
     }
   ],
   "topIndividuals": [
