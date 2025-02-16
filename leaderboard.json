@@ -2,8 +2,8 @@
   "houses": [
     {
       "name": "Chara",
-      "points": 100780,
-      "memberPoints": 100780,
+      "points": 10780,
+      "memberPoints": 10780,
       "bonusPoints": 0,
       "progressPercentage": 100,
       "logoUrl": "/static/logos/chara.svg"
@@ -13,7 +13,7 @@
       "points": 10000,
       "memberPoints": 0,
       "bonusPoints": 10000,
-      "progressPercentage": 9,
+      "progressPercentage": 92,
       "logoUrl": "/static/logos/eirene.svg"
     },
     {
@@ -21,7 +21,7 @@
       "points": 1640,
       "memberPoints": 1640,
       "bonusPoints": 0,
-      "progressPercentage": 1,
+      "progressPercentage": 15,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
@@ -29,14 +29,14 @@
       "points": 850,
       "memberPoints": 850,
       "bonusPoints": 0,
-      "progressPercentage": 0,
+      "progressPercentage": 7,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
     {
       "name": "Sarah M.",
-      "points": 100000,
+      "points": 10000,
       "house": "Chara",
       "houseLogoUrl": "/static/logos/chara.svg"
     },
