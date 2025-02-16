@@ -1,0 +1,60 @@
+{
+  "houses": [
+    {
+      "name": "Chara",
+      "points": 2450,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/chara.svg"
+    },
+    {
+      "name": "Agape",
+      "points": 2180,
+      "progressPercentage": 89,
+      "logoUrl": "/static/logos/agape.svg"
+    },
+    {
+      "name": "Arete",
+      "points": 1890,
+      "progressPercentage": 77,
+      "logoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Eirene",
+      "points": 1670,
+      "progressPercentage": 68,
+      "logoUrl": "/static/logos/eirene.svg"
+    }
+  ],
+  "topIndividuals": [
+    {
+      "name": "Sarah M.",
+      "points": 920,
+      "house": "Chara",
+      "houseLogoUrl": "/static/logos/chara.svg"
+    },
+    {
+      "name": "Daniel K.",
+      "points": 890,
+      "house": "Agape",
+      "houseLogoUrl": "/static/logos/agape.svg"
+    },
+    {
+      "name": "James L.",
+      "points": 850,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Emily R.",
+      "points": 780,
+      "house": "Chara",
+      "houseLogoUrl": "/static/logos/chara.svg"
+    },
+    {
+      "name": "Michael T.",
+      "points": 750,
+      "house": "Agape",
+      "houseLogoUrl": "/static/logos/agape.svg"
+    }
+  ]
+} 
