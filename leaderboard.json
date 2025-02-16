@@ -1,11 +1,19 @@
 {
   "houses": [
     {
+      "name": "Agape",
+      "points": 50890,
+      "memberPoints": 50890,
+      "bonusPoints": 0,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/agape.svg"
+    },
+    {
       "name": "Chara",
       "points": 10780,
       "memberPoints": 10780,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 21,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
@@ -13,27 +21,25 @@
       "points": 10000,
       "memberPoints": 0,
       "bonusPoints": 10000,
-      "progressPercentage": 92,
+      "progressPercentage": 19,
       "logoUrl": "/static/logos/eirene.svg"
-    },
-    {
-      "name": "Agape",
-      "points": 1640,
-      "memberPoints": 1640,
-      "bonusPoints": 0,
-      "progressPercentage": 15,
-      "logoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "Arete",
       "points": 850,
       "memberPoints": 850,
       "bonusPoints": 0,
-      "progressPercentage": 7,
+      "progressPercentage": 1,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
+    {
+      "name": "Michael T.",
+      "points": 50000,
+      "house": "Agape",
+      "houseLogoUrl": "/static/logos/agape.svg"
+    },
     {
       "name": "Sarah M.",
       "points": 10000,
@@ -57,12 +63,6 @@
       "points": 780,
       "house": "Chara",
       "houseLogoUrl": "/static/logos/chara.svg"
-    },
-    {
-      "name": "Michael T.",
-      "points": 750,
-      "house": "Agape",
-      "houseLogoUrl": "/static/logos/agape.svg"
     }
   ]
 }
