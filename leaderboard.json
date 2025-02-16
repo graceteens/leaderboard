@@ -1,27 +1,27 @@
 {
   "houses": [
     {
+      "name": "Chara",
+      "points": 100780,
+      "memberPoints": 100780,
+      "bonusPoints": 0,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/chara.svg"
+    },
+    {
       "name": "Eirene",
       "points": 10000,
       "memberPoints": 0,
       "bonusPoints": 10000,
-      "progressPercentage": 100,
+      "progressPercentage": 9,
       "logoUrl": "/static/logos/eirene.svg"
-    },
-    {
-      "name": "Chara",
-      "points": 1700,
-      "memberPoints": 1700,
-      "bonusPoints": 0,
-      "progressPercentage": 17,
-      "logoUrl": "/static/logos/chara.svg"
     },
     {
       "name": "Agape",
       "points": 1640,
       "memberPoints": 1640,
       "bonusPoints": 0,
-      "progressPercentage": 16,
+      "progressPercentage": 1,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
@@ -29,14 +29,14 @@
       "points": 850,
       "memberPoints": 850,
       "bonusPoints": 0,
-      "progressPercentage": 8,
+      "progressPercentage": 0,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
     {
       "name": "Sarah M.",
-      "points": 920,
+      "points": 100000,
       "house": "Chara",
       "houseLogoUrl": "/static/logos/chara.svg"
     },
