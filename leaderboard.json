@@ -2,26 +2,26 @@
   "houses": [
     {
       "name": "Chara",
-      "points": 2450,
+      "points": 1700,
       "progressPercentage": 100,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
       "name": "Agape",
-      "points": 2180,
-      "progressPercentage": 89,
+      "points": 1640,
+      "progressPercentage": 96,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "Arete",
-      "points": 1890,
-      "progressPercentage": 77,
+      "points": 850,
+      "progressPercentage": 50,
       "logoUrl": "/static/logos/arete.svg"
     },
     {
       "name": "Eirene",
-      "points": 1670,
-      "progressPercentage": 68,
+      "points": 0,
+      "progressPercentage": 0,
       "logoUrl": "/static/logos/eirene.svg"
     }
   ],
@@ -57,4 +57,4 @@
       "houseLogoUrl": "/static/logos/agape.svg"
     }
   ]
-} 
+}
