@@ -2,8 +2,8 @@
   "houses": [
     {
       "name": "Eirene",
-      "points": 25,
-      "memberPoints": 25,
+      "points": 35,
+      "memberPoints": 35,
       "bonusPoints": 0,
       "progressPercentage": 100,
       "logoUrl": "/static/logos/eirene.svg"
@@ -13,7 +13,7 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 71,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
@@ -21,7 +21,7 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 71,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
@@ -29,14 +29,14 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 71,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
     {
       "name": "James L.",
-      "points": 25,
+      "points": 35,
       "house": "Eirene",
       "houseLogoUrl": "/static/logos/eirene.svg"
     },
