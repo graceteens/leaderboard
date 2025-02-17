@@ -1,11 +1,19 @@
 {
   "houses": [
     {
+      "name": "Arete",
+      "points": 475,
+      "memberPoints": 475,
+      "bonusPoints": 0,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/arete.svg"
+    },
+    {
       "name": "Eirene",
       "points": 35,
       "memberPoints": 35,
       "bonusPoints": 0,
-      "progressPercentage": 100,
+      "progressPercentage": 7,
       "logoUrl": "/static/logos/eirene.svg"
     },
     {
@@ -13,7 +21,7 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 71,
+      "progressPercentage": 5,
       "logoUrl": "/static/logos/agape.svg"
     },
     {
@@ -21,16 +29,8 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 71,
+      "progressPercentage": 5,
       "logoUrl": "/static/logos/chara.svg"
-    },
-    {
-      "name": "Arete",
-      "points": 25,
-      "memberPoints": 25,
-      "bonusPoints": 0,
-      "progressPercentage": 71,
-      "logoUrl": "/static/logos/arete.svg"
     }
   ],
   "topIndividuals": [
@@ -54,6 +54,42 @@
     },
     {
       "name": "James L.",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
+      "points": 25,
+      "house": "Arete",
+      "houseLogoUrl": "/static/logos/arete.svg"
+    },
+    {
+      "name": "Person",
       "points": 25,
       "house": "Arete",
       "houseLogoUrl": "/static/logos/arete.svg"
