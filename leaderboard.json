@@ -1,27 +1,27 @@
 {
   "houses": [
     {
-      "name": "Agape",
-      "points": 50,
-      "memberPoints": 50,
-      "bonusPoints": 0,
-      "progressPercentage": 100,
-      "logoUrl": "/static/logos/agape.svg"
-    },
-    {
       "name": "Eirene",
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 50,
+      "progressPercentage": 100,
       "logoUrl": "/static/logos/eirene.svg"
+    },
+    {
+      "name": "Agape",
+      "points": 25,
+      "memberPoints": 25,
+      "bonusPoints": 0,
+      "progressPercentage": 100,
+      "logoUrl": "/static/logos/agape.svg"
     },
     {
       "name": "Chara",
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 50,
+      "progressPercentage": 100,
       "logoUrl": "/static/logos/chara.svg"
     },
     {
@@ -29,7 +29,7 @@
       "points": 25,
       "memberPoints": 25,
       "bonusPoints": 0,
-      "progressPercentage": 50,
+      "progressPercentage": 100,
       "logoUrl": "/static/logos/arete.svg"
     }
   ],
@@ -42,12 +42,6 @@
     },
     {
       "name": "Michael T.",
-      "points": 25,
-      "house": "Agape",
-      "houseLogoUrl": "/static/logos/agape.svg"
-    },
-    {
-      "name": "Daniel K.",
       "points": 25,
       "house": "Agape",
       "houseLogoUrl": "/static/logos/agape.svg"
